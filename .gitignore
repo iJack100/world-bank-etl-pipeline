@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.test_runs/
+test_tmp_*/
+outputs/test_*/
+data/_download_*/
+*.tmp
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal

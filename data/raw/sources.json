@@ -1,0 +1,20 @@
+[
+  {
+    "file": "gdp_current_usd.json",
+    "url": "https://api.worldbank.org/v2/country/EC;CO/indicator/NY.GDP.MKTP.CD?date=2019:2024&format=json&per_page=1000",
+    "retrieved_at_utc": "2026-10-20T21:34:08Z",
+    "indicator": "NY.GDP.MKTP.CD"
+  },
+  {
+    "file": "population_total.json",
+    "url": "https://api.worldbank.org/v2/country/EC;CO/indicator/SP.POP.TOTL?date=2019:2024&format=json&per_page=1000",
+    "retrieved_at_utc": "2026-10-20T21:34:09Z",
+    "indicator": "SP.POP.TOTL"
+  },
+  {
+    "file": "inflation_annual_pct.json",
+    "url": "https://api.worldbank.org/v2/country/EC;CO/indicator/FP.CPI.TOTL.ZG?date=2019:2024&format=json&per_page=1000",
+    "retrieved_at_utc": "2026-10-20T21:34:09Z",
+    "indicator": "FP.CPI.TOTL.ZG"
+  }
+]

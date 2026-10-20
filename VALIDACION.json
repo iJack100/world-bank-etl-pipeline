@@ -1,0 +1,10 @@
+{
+  "validated_at_utc": "2026-10-20T21:40:46.265291+00:00",
+  "python": "3.12.14",
+  "mode": "offline_with_bundled_public_snapshots",
+  "observations": 36,
+  "report_rows": 12,
+  "tests_passed": 7,
+  "rejected_rows": 0,
+  "status": "completed"
+}
